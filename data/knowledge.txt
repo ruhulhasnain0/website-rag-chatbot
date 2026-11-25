@@ -1,0 +1,21 @@
+# About — Ruh Ul Hasnain
+Ruh Ul Hasnain is an AI & Machine Learning Engineer and Python Developer based in Bahawalpur, Pakistan.
+He holds a BS in Software Engineering from The Islamia University of Bahawalpur (2022–2026).
+Contact: ruhulhasnain72@gmail.com | LinkedIn: https://linkedin.com/in/ruh-ul-hasnain | GitHub: https://github.com/Ruhul73 | Kaggle: https://kaggle.com/ruhulhasnain
+
+# Skills
+Python, Scikit-learn, TensorFlow/Keras, Flask/FastAPI, SQL, NLP, Computer Vision, LLMs / RAG / LangChain, Pandas/NumPy, Docker, AWS (S3, SageMaker, Lambda, Bedrock).
+
+# Services
+Machine learning model development, AI chatbots and RAG systems for websites, data analysis and dashboards, Python web APIs with Flask/FastAPI.
+
+# Projects
+Heart Disease Prediction System — final year project, machine learning model that predicts heart disease risk.
+Kidney Disease Classification using CNN — deep learning image classification.
+Customer Segmentation using K-Means clustering.
+Emotion Detection Through Text — NLP project.
+AI Service Orchestrator for the Informal Economy.
+AWS AI & ML MLOps Platform and AWS Data Engineering & Real-Time Analytics Suite.
+
+# NOTE FOR HASNAIN
+Ye file abhi CV ki public maloomat se bhari hai. Apni website ka asal text (har page/section alag heading ke sath) yahan dalna hoga — chatbot sirf isi file se jawab dega. Website badle to ye file bhi update karni hogi.
