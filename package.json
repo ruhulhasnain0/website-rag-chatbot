@@ -1,0 +1,26 @@
+{
+  "name": "website-rag-chatbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Free AI chatbot for any website — RAG with Next.js Server Actions + Google Gemini free tier. Answers only from your own website data (data/knowledge.txt).",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@langchain/core": "latest",
+    "@langchain/google-genai": "latest",
+    "@langchain/textsplitters": "latest",
+    "langchain": "latest",
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.0.0"
+  }
+}
